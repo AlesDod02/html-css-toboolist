@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 100px;
+}
+main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.Square-h4{
+    display: inline-block;
+    border-radius: 20%;
+    margin-left: 10px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.bg-blue{
+    background-color: rgb(133, 190, 223);
+}
+
+.bg-white{
+    background-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(180, 174, 174);
+}
+.mg-200px{
+    margin-left: 200px;
+}
+.color-grey{
+    color: rgb(216, 210, 210);
+    margin-top: 8px;
+}
+
+.dropdown{
+    display: inline-block;
+    dropdow
+}
