@@ -10,16 +10,11 @@ header{
     padding: 20px;
     background-color: rgb(255, 255, 255);
 }
-main{
-    
-    width: 80%;
-    margin: 0 auto;
-}
 
 
 .Square-h4{
     display: inline-block;
-    border-radius: 20%;
+    border-radius: 10%;
     margin-left: 10px;
     width: 100px;
     height: 30px;
@@ -49,7 +44,7 @@ h3{
     font-weight: lighter;
 }
 h2{
-    color: rgb(82, 79, 79);
+    color: rgb(54, 52, 52);
 }
 
 .check-green{
@@ -58,3 +53,50 @@ h2{
 .false-red{
     color: rgb(218, 30, 30);
 }
+.bg-white2{
+    background-color: rgb(255, 255, 255);
+}
+main{
+    width: 80%;
+    margin-top: 40px;
+    margin-left: 200px;
+    
+}
+
+.editorial{
+    display: inline-block;
+    border-radius: 10%;
+    margin-left: 10px;
+    width: 60px;
+    height: 20px;
+    text-align: center;
+    padding-top: 4px;
+    background-color: rgb(58, 152, 196);
+    font-size: xx-small;
+    color: rgb(255, 255, 255);
+}
+
+#purplesquare{
+    background-color: rgb(177, 76, 177);
+
+}
+
+
+#greensquare{
+    background-color: rgb(123, 209, 159);
+}
+
+#orangesquare{
+    background-color: rgb(238, 159, 12);
+}
+
+#green2square{
+    background-color: rgb(15, 224, 15);
+}
+
+#pinksquare{
+    background-color: rgb(218, 59, 106);
+}
+
+
+
