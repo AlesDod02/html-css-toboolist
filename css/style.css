@@ -2,18 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(235, 227, 227);
 
 }
 
 header{
-    margin-top: 10px;
-    margin-left: 20px;
-    margin-bottom: 100px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
 }
 main{
+    
     width: 80%;
     margin: 0 auto;
 }
+
 
 .Square-h4{
     display: inline-block;
@@ -43,7 +45,16 @@ main{
     margin-top: 8px;
 }
 
-.dropdown{
-    display: inline-block;
-    dropdow
+h3{
+    font-weight: lighter;
+}
+h2{
+    color: rgb(82, 79, 79);
+}
+
+.check-green{
+    color: rgb(34, 211, 34);
+}
+.false-red{
+    color: rgb(218, 30, 30);
 }
