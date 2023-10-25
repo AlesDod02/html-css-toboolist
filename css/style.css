@@ -10,6 +10,8 @@ body {
 header{
     padding: 20px;
     background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 5px 5px rgb(134, 131, 131);
+    box
 }
 
 .Square-h4{
@@ -20,6 +22,8 @@ header{
     height: 30px;
     text-align: center;
     padding-top: 5px;
+
+
 }
 
 .bg-blue{
@@ -33,7 +37,10 @@ header{
     border-color: rgb(180, 174, 174);
 }
 .mg-200px{
-    margin-left: 200px;
+    margin-left: 150px;
+}
+.mg-100px{
+    margin-left: 125px;
 }
 .color-grey{
     color: rgb(216, 210, 210);
@@ -58,12 +65,13 @@ h2{
 }
 main{
     width: 80%;
-    margin-top: 40px;
+    margin-top: 100px;
     margin-left: 200px;
     background-color: rgb(255, 255, 255);
     border-radius: 9px;
     height: 800px;
     padding-top: 50px;
+    box-shadow: 20px 10px 20px 10px rgb(134, 131, 131);
     
     
     
@@ -133,5 +141,6 @@ main{
     border-top: 3px solid rgb(201, 194, 194);
 }
 section{
-    padding-left: 50px;
+    padding-left: 20px;
+    padding-top: -10px;
 }
